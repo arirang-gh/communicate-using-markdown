@@ -1,0 +1,16 @@
+# This is an <h1> header, which is the largest - 2024-06-26
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
+
+
+
+- [x] Turn on GitHub Pages
+
+
+![Image of Yaktocat](https://raw.githubusercontent.com/fenago/communicate-using-markdown/master/yaktocat.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.git/
+```
